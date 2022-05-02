@@ -1,0 +1,17 @@
+{
+  "name": "test-module",
+  "description": "Test module",
+  "authors": [
+    "GhexterCortes"
+  ],
+  "supportedVersions": [
+    "1.0.19"
+  ],
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "test-module.js",
+  "includes": [],
+  "github": "https://github.com/GhexterCortes/reciple-test-module",
+  "url": "",
+  "dependencies": {}
+}

@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "pack": "rmm pack :null: true"
+  },
+  "devDependencies": {
+    "reciple": "^1.0.19"
+  }
+}
