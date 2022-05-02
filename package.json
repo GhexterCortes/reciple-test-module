@@ -1,4 +1,6 @@
 {
+  "name": "reciple-test-module",
+  "version": "1.0.0",
   "scripts": {
     "pack": "rmm pack :null: true"
   },
